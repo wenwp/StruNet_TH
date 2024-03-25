@@ -2,6 +2,8 @@
 Structural nonlinear seismic time-history response prediction of urban-scale reinforced concrete frames based on deep learning
 
 
+The model proposed in this paper can simultaneously consider the diversity of structural parameters and ground motions. The trained model is applicable to low-rise and mid-rise RC frame structures with different seismic design intensities, floor heights, and plan dimensions. This is the most significant difference compared to the existing studies.
+
 
 This repository contains the following content:
 1. Optimized model 
