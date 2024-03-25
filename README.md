@@ -9,7 +9,7 @@ This repository contains the following content:
 1. Optimized model 
    1.1 Introduction to model input and output
    1.2 Saved model file (.h5) 
-   1.3 Code for loading the model
+   1.3 Code for reusing the model
 
 2. Four real RC buildings
    2.1 Details of these buildings 
