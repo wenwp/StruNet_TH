@@ -29,3 +29,5 @@ This repository contains the following content:
 </pre>
 
 **The related data, models, and codes used in this study will be available within the next couple of days. You are welcome to click "Watch" and "Star".**
+
+**待开源的数据和模型、以及相关介绍正在整理，随后将上传到该仓库，欢迎点击“watch”和“star”来第一时间接收到该仓库更新消息。（20240808）**
