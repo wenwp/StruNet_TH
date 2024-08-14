@@ -16,18 +16,40 @@ The model proposed in this paper can simultaneously consider the diversity of st
 
 This repository contains the following content:
 <pre>
-1. Optimized model 
-   1.1 Introduction to model input and output
-   1.2 Saved model file (.h5) 
-   1.3 Code for reusing the model
+1. The final model and loss curves from the paper are provided in 'model' folder.
 
-2. Four real RC buildings
-   2.1 Details of these buildings and the detailed finite element modeling in OpenSees
-   2.2 Selected ground motions
-   2.3 Calculated seismic responses using Opensees
-   2.4 The input and output of Optimized model 
+2. Four real RC buildings and 20 ground motions in the Case Study,
+   2.1 Calculated seismic responses using Opensee (OpenSees results of 4cases.rar)
+   2.2 The input and output of Optimized model (data, results)
 </pre>
 
-**The related data, models, and codes used in this study will be available within the next couple of days. You are welcome to click "Watch" and "Star".**
 
-**待开源的数据和模型、以及相关介绍正在整理，随后将上传到该仓库，欢迎点击“watch”和“star”来第一时间接收到该仓库更新消息。（20240808）**
+## requirements
+    python==3.7.13    
+    tensorflow==2.7.0
+
+
+
+## Citation
+<pre>
+@article{zhang2024strunetth,  
+         title={Structural nonlinear seismic time-history response prediction of urban-scale reinforced concrete frames based on deep learning},  
+         author={Zhang, Chenyu and Wen, Weiping and Zhai, Changhai and Jia, Jun and Zhou, Bochang}, 
+         journal={Engineering Structures},  
+         volume={317},  
+         pages={118702},  
+         year={2024},  
+         publisher={Elsevier}  
+         }
+
+@article{wen2022strunet,  
+         title={Rapid seismic response prediction of RC frames based on deep learning and limited building information},  
+         author={Wen, Weiping and Zhang, Chenyu and Zhai, Changhai}, 
+         journal={Engineering Structures},  
+         volume={267},  
+         pages={114638},  
+         year={2022},  
+         publisher={Elsevier}  
+         }
+
+</pre>
