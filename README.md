@@ -20,7 +20,7 @@ This repository contains the following content:
 
 2. Four real RC buildings and 20 ground motions in the Case Study,
    2.1 Calculated seismic responses using Opensee (OpenSees results of 4cases.rar)
-   2.2 The input and output of Optimized model ('data', 'results' folder)
+   2.2 The input and output of Optimized model ('data' and 'results')
 </pre>
 
 
